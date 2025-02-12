@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace CapaLogica
+﻿namespace CapaLogica
 {
     public class Class1
     {

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace CapaEntidades
+﻿namespace CapaEntidades
 {
     public class Class1
     {

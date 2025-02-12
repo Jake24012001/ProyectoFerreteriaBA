@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace CapaDatos
+﻿namespace CapaDatos
 {
     public class Class1
     {
