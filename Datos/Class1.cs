@@ -1,4 +1,4 @@
-﻿namespace CapaLogica
+﻿namespace Datos
 {
     public class Class1
     {
